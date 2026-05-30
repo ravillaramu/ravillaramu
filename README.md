@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ravilla+Ramu;Cloud+%26+DevOps+Engineer;AWS+%7C+GCP+%7C+Azure;Kubernetes+%7C+Terraform+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ravilla+Ramu;Senior+Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+GCP;Kubernetes+%7C+Terraform+%7C+CI%2FCD;4.9%2B+Years+of+Cloud+Expertise" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,21 +14,51 @@
 
 ```yaml
 name: Ravilla Ramu
-role: Cloud & DevOps Engineer
-experience: 4+ years
-location: Hyderabad, India
-current_employer: HTC Global Services
+role: Senior Cloud & DevOps Engineer
+experience: 4.9+ years
+location: Hyderabad, Telangana, India
+
+current_role:
+  company: Infosys Ltd (Client: Pfizer — SIGMA Application)
+  stack: [AWS, EKS, Terraform, Dynatrace, Splunk, FSx, S3]
+
+previous_role:
+  company: HTC Global Services
+  clients: [BCG, Deutsche Bank, JPMorgan Chase, Poison Help & Re-Cap, CLS-COE]
+  stack: [AWS, Azure, GCP, Kubernetes, Jenkins, Azure DevOps, Terraform]
 
 specializations:
-  - Multi-cloud infrastructure (AWS · GCP · Azure)
-  - Container orchestration (Kubernetes · Docker)
-  - Infrastructure as Code (Terraform · CloudFormation)
-  - CI/CD pipelines & GitOps
-  - Cloud security & compliance (IAM · GuardDuty · WAF)
-  - Monitoring & observability (Prometheus · Grafana · CloudWatch)
+  - Multi-cloud architecture (AWS · Azure · GCP)
+  - Kubernetes (EKS) orchestration & autoscaling
+  - Infrastructure as Code (Terraform)
+  - CI/CD pipeline engineering
+  - Cloud security & compliance (IAM · Security Hub · GuardDuty · WAF · KMS)
+  - FinOps & cost optimization
+  - Monitoring & observability (Dynatrace · Splunk · CloudWatch)
+  - ITIL change management & disaster recovery
 
-open_to: Senior DevOps | Platform Engineer | SRE roles
+certifications:
+  - "Microsoft Certified: Azure Fundamentals (AZ-900)"
+  - "AWS Solutions Architect – Associate (In Progress)"
+
+open_to: Senior DevOps | Platform Engineer | SRE | Cloud Architect roles
 ```
+
+---
+
+## 🏆 Key Achievements
+
+| 🎯 Achievement | 📈 Impact |
+|---|---|
+| EKS Deployment Automation | **30–40% faster** deployments via shell-script pipelines at Infosys/Pfizer |
+| FinOps & Cost Optimization | **30% cloud cost reduction** across managed accounts at HTC |
+| Security Hub Compliance | **35% improvement** in security posture score at JPMorgan Chase |
+| SES Deliverability | Email delivery rate improved from **78% → 97%** at JPMorgan Chase |
+| MTTD Reduction | **~60% faster** infrastructure failure detection via CloudWatch/FSx alarms |
+| CodePipeline Automation | **50% less** manual release effort at Deutsche Bank |
+| SSO Federation | Federated access configured for **200+ engineers** across AWS/GCP/Azure |
+| IAM Governance | Zero access-policy violations across **18 AWS accounts, 30 Azure RGs, 7 GCP projects** |
+| 🏅 Insta Award | Recognized at Infosys for automation of complex high-risk production deployments (Dec 2024) |
 
 ---
 
@@ -36,8 +66,8 @@ open_to: Senior DevOps | Platform Engineer | SRE roles
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -46,42 +76,58 @@ open_to: Senior DevOps | Platform Engineer | SRE roles
 
 ### ⚙️ IaC & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔄 CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📊 Monitoring & Observability
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔐 Security
 ![AWS IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Security Hub](https://img.shields.io/badge/Security_Hub-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🗄️ Databases & Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Azure Blob](https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🏆 Key Achievements
+## 💼 Experience Timeline
 
-| 🎯 Achievement | 📈 Impact |
-|---|---|
-| Cloud Cost Optimization | **30% reduction** in operational costs via Spot Instances & FinOps |
-| EKS Migration | Led on-prem Kubernetes → AWS EKS, improving scalability |
-| AWS Control Tower | Set up centralized governance across multiple AWS accounts |
-| Terraform Automation | Automated dev/staging/prod environments with reusable modules |
-| Storage Optimization | Lambda-based S3 auto-deletion reducing storage costs |
-| SSL Automation | Automated certificate creation & renewal for all applications |
+```
+2025 – Present  │ Infosys Ltd → Pfizer (SIGMA)
+                │ EKS · Terraform · Dynatrace · Splunk · FSx · CloudWatch
+                │ 🏅 Insta Award — Dec 2024
+────────────────┼────────────────────────────────────────────────────
+2021 – 2025     │ HTC Global Services (Multi-client)
+                │
+  Oct–Jan 2025  │   → BCG: EKS platform design & session reliability
+  Feb–Mar 2025  │   → Deutsche Bank: CodePipeline automation & DR
+  Oct–Mar 2025  │   → JPMorgan Chase: Security Hub, SES, SFTP/GPG
+  Jan–Mar 2025  │   → Poison Help & Re-Cap: Lambda, NGINX, SES
+  Jul–Mar 2025  │   → CLS-COE: Multi-cloud IAM, SSO for 200+ engineers
+                │         CHAMP Platform · FinOps · EKS migration
+```
 
 ---
 
-## 📌 Featured Projects
+## 🎓 Certifications
 
-> 🚧 Projects coming soon — check back or reach out to collaborate!
+- 🟦 **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft, 2022
+- 🟧 **AWS Certified Solutions Architect – Associate (SAA-C03)** — In Progress
 
 ---
 
@@ -100,9 +146,7 @@ open_to: Senior DevOps | Platform Engineer | SRE roles
 
 ## 📫 Let's Connect
 
-I'm actively looking for **Senior DevOps / Platform Engineer / SRE** opportunities.
-
-If you're hiring or want to collaborate — let's talk!
+I'm open to **Senior DevOps · Platform Engineer · SRE · Cloud Architect** opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ravillaramu"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
