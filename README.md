@@ -103,24 +103,6 @@ open_to: Senior DevOps | Platform Engineer | SRE | Cloud Architect roles
 ![Amazon S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Azure Blob](https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
-## 💼 Experience Timeline
-
-```
-2025 – Present  │ Infosys Ltd → Pfizer (SIGMA)
-                │ EKS · Terraform · Dynatrace · Splunk · FSx · CloudWatch
-                │ 🏅 Insta Award — Dec 2024
-────────────────┼────────────────────────────────────────────────────
-2021 – 2025     │ HTC Global Services (Multi-client)
-                │
-  Oct–Jan 2025  │   → BCG: EKS platform design & session reliability
-  Feb–Mar 2025  │   → Deutsche Bank: CodePipeline automation & DR
-  Oct–Mar 2025  │   → JPMorgan Chase: Security Hub, SES, SFTP/GPG
-  Jan–Mar 2025  │   → Poison Help & Re-Cap: Lambda, NGINX, SES
-  Jul–Mar 2025  │   → CLS-COE: Multi-cloud IAM, SSO for 200+ engineers
-                │         CHAMP Platform · FinOps · EKS migration
-```
 
 ---
 
@@ -129,18 +111,6 @@ open_to: Senior DevOps | Platform Engineer | SRE | Cloud Architect roles
 - 🟦 **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft, 2022
 - 🟧 **AWS Certified Solutions Architect – Associate (SAA-C03)** — In Progress
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravillaramu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravillaramu&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravillaramu&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
